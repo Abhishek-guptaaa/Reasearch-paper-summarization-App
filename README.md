@@ -7,3 +7,6 @@ Custom Prompt: Allows users to guide the summarization with specific instruction
 Flexible Models: Supports different summarization models and settings.
 User-Friendly Interface: Easy-to-use interface for quick and interactive summarization.
 The app helps users quickly understand complex research documents and highlights key insights efficiently.
+
+
+[streamlit-app-2024-08-12-15-08-20_3Ryzi7Vy.webm](https://github.com/user-attachments/assets/71b36548-19f3-477d-ac78-7f09863f1035)
