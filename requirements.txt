@@ -1,0 +1,12 @@
+tiktoken
+langchain
+chromadb
+pypdf
+gradio
+streamlit
+langchain-groq
+langchain-community
+python-box
+transformers
+ensure
+-e .
